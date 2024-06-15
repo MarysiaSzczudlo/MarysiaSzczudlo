@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to Python fundamentals, data, AI or HTML and CSS.
 - 📫 You can reach me via e-mail: marysia.szczudlo1994@gmail.com or phone: +48 533-668-226 
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I have two King Charles Cavalier dogs. I play the piano, but I don't know the notes. I am very sociable and I love working in a team. I learn quickly and I am hard-working.
+- ⚡ About me: I am very sociable and I love working in a team. I learn quickly, I am ambitious and hard-working. I love challenges! 
 
 <!---
 MarysiaSzczudlo/MarysiaSzczudlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
